@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+padding:0 15rem;
+}
+header{
+    background-color: #ffcb04;;
+}
+.exxenupper{
+    padding: 25px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Ticari{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.uyeol{
+    background-color: #000;
+    color: #ffcb04;
+    border: 1px solid;
+    font-size: 1rem;
+    padding: 10px 30px;
+    text-decoration: none;
+    letter-spacing: normal;
+    font-weight: bold;
+
+}
+.ticariuye{
+    border: 1px solid;
+    font-size: 1rem;
+    padding: 10px 30px;
+    color: #090909;
+    text-decoration: none;
+    font-weight: bold;
+}
+.lang{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+select{
+    border: none;
+    font-family: "Inter Bold" !important;
+    outline: none;
+    background-color: transparent;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #222;
+}
+option{
+    margin: 40px;
+    background: #111;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0,0,0,.4);
+    border-color: #000;
+    font-weight: normal;
+    display: block;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+    white-space: nowrap;
+}
+#Bilgiler{
+    background-color: #090909;
+    padding: 30px  0;
+ 
+
+
+}
+
+.loginBilgiler{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 10px;
+}
+.one{
+    border: solid 2px #c7c7c7;
+    background-color: #ffffff; 
+    padding: 15px 0;
+    padding-right: 6rem;
+    padding-left: 15px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.one:focus{
+    border: 2px solid #ffcb04 !important;
+    border: none;
+    outline: none;
+
+}
+.one::placeholder{
+    color: #000;
+}
+.loginBilgiler button{
+    border: solid 2px #ffcb04;
+    background-color: #ffcb04;
+    padding: 15px 8rem;
+    font-size: 1rem;
+    color: #090909;
+    font-weight: bold;
+}
+#main{
+    background-color: #000;
+}
+.Showboxes{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+}
+.Showboxes a{
+    text-decoration: none;
+}
+
+.box .mainphoto img{
+width: 100%;
+
+}
+.box{
+    text-align: center;
+    width: 100%; 
+    max-width: 250px; 
+    margin: 20px auto; 
+}
+.box strong{
+color: #FFFF;
+padding: 10px 0 ;
+display: block;
+font-size: 1.2rem;
+}
+#Foto{
+    background-color: #000;
+}
+
+#Foto .foto img{
+    width: 100%;
+}
+footer{
+    background-color: #000;
+}
+.footermain{
+    text-align: center;
+    padding: 50px 0;
+}
+.footermain .text{
+    padding: 20px 0;
+}
+.footermain .text h1{
+    padding: 20px 0;
+    font-family: 'Inter Regular' !important;
+    font-size: 2.05vw;
+    font-weight: 600;
+    color: #fff;
+    width: 100%;
+}
+.footermain .google{
+
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footermain .google img{
+    max-width: 150px; 
+    max-height: 150px;
+    object-fit: contain; 
+    margin-left: 10px;
+}
+
+.footermain .google img.app{
+    max-width: 300px; 
+    max-height: 300px;
+    object-fit: contain; 
+}
+.footermain .socialmedia{
+    padding: 10px 0 ;
+}  
+.footermain .socialmedia a{
+    padding-left: 10px;
+}
+.footermain .yardim {
+    padding: 10px 0;
+    display: flex;
+   flex-direction: column;
+    gap: 30px;
+    background-color: #090909;
+}
+.footermain .yardim a{
+    color: #ffcb04;
+    text-decoration: none;
+    font-size: 25px;
+     font-weight: bold;
+    display: block;
+}
+.footermain .yardim .kunye{
+    color: #ffffff;
+}
