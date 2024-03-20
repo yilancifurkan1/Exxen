@@ -1,7 +1,6 @@
 # Exxen
 <hr>
-# Netflix-Clone-Project
-Bu depo, popüler video akış hizmeti Netflix'in temel özelliklerini taklit eden bir klon projesini içermektedir. Proje HTML ve CSS ile geliştirildi java script kullanılarak kullanıcılara film ve dizileri listeleyip izlemelerine, favori listelerini oluşturmalarına ve kullanıcı profillerini yönetmelerine olanak tanıyan temel video akış işlevselliğine odaklanacak şekilde de geliştirilebilir.
+Bu depo, popüler video akış hizmeti Exxen'in temel özelliklerini taklit eden bir klon projesini içermektedir. Proje HTML ve CSS ile geliştirildi java script kullanılarak kullanıcılara film ve dizileri listeleyip izlemelerine, favori listelerini oluşturmalarına ve kullanıcı profillerini yönetmelerine olanak tanıyan temel video akış işlevselliğine odaklanacak şekilde de geliştirilebilir.
 <hr>
 # Kullanılar Teknolojiler
 -HTML -CSS
